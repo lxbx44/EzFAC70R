@@ -37,9 +37,9 @@ Python 3 must be installed:
 
 Download the git repo in a zip file:
 
-![IMG](https://github.com/rogerrfs/EzFAC70R/blob/main/img_git/img.jpeg)
+![IMG](https://github.com/rogerrfs/EzFAC70R/blob/master/.data/img1.jpeg)
 
-![IMG](https://github.com/rogerrfs/EzFAC70R/blob/main/img_git/img2.jpeg)
+![IMG](https://github.com/rogerrfs/EzFAC70R/blob/master/.data/img2.jpeg)
 
 Extract the zip file, enter the folder and select the language.
 
