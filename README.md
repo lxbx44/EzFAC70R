@@ -9,7 +9,7 @@ EN &rarr; English
 
 CAT &rarr; Català
 
-ES &rarr; Español (Available soon!)
+ES &rarr; Español
 
 
 ## Installing
@@ -28,13 +28,9 @@ Python 3 must be installed:
 
 `git clone https://github.com/rogerrfs/EzFAC70R.git`
 
-`cd EzFAC70R/EzFAC70R_(Language)/`
+`cd EzFAC70R/(Language)/`
 
-`cd main/`
-
-`pip install -r requirements.txt`
-
-`python3 EzFAC70R_PC_(Language).py`
+`python3 main.py`
 
 
 ### Windows
@@ -47,7 +43,7 @@ Download the git repo in a zip file:
 
 Extract the zip file, enter the folder and select the language.
 
-Then simply execute the file `EzFAC70R_PC_(Language).exe`
+Then simply execute the file `EzFAC70R.exe`
 
 #
 

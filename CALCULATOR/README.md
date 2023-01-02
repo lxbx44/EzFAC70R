@@ -1,0 +1,1 @@
+You just have to paste the python file in your calculator
