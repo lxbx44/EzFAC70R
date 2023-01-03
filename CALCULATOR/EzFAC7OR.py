@@ -12,7 +12,7 @@ def title():
     
     
 def mirrorList(lst):
-    
+
     mirrored = []
     
     for i in range(len(lst)-1, -1, -1):
@@ -31,13 +31,12 @@ def numfact(n):
 
     elif n < 0:
         print("Do you want to burn by circuits?")
-
+ 
     elif n != int(n):
         print("Do I look stupid to you?")
 
     elif n == 69:
         print("23 3 1")
-        print()
         print("Hehe ;)")
 
     ######################
@@ -79,6 +78,7 @@ def main():
 
         else:
             numfact(n)
+        
 
         
 
