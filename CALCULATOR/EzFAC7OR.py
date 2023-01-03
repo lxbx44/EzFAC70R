@@ -72,7 +72,8 @@ def main():
     
     while True:
         print()
-        print("Enter the number you want to factorize:")
+        print("Enter the number you")
+        print("want to factorize:")
         n = input('>> ')
 
         if n == "q" or n == "quit" or n == "exit":
