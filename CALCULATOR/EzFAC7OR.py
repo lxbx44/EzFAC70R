@@ -27,13 +27,16 @@ def numfact(n):
     n = float(n)
     
     if n == 0:
-        print("What are you doing silly")
+        print("What are you")
+        print("doing silly?")
 
     elif n < 0:
-        print("Do you want to burn by circuits?")
+        print("Do you want to")
+        print("burn by circuits?")
  
     elif n != int(n):
-        print("Do I look stupid to you?")
+        print("Do I look")
+        print("stupid to you?")
 
     elif n == 69:
         print("23 3 1")
