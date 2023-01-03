@@ -6,10 +6,10 @@
 
 import math
 
-def title(): 
-      
+def title():     
     print("EzFAC7OR - Roger&Pep")
 
+    
     
 def mirrorList(lst):
     
