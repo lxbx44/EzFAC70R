@@ -1,4 +1,4 @@
-# EzFAC70R
+# <img src=".data/icon.ico" width="35" height="35"> EzFAC70R
 Factorize any number you want!
 
 Made by: Roger&amp;Pep
@@ -37,9 +37,9 @@ Python 3 must be installed:
 
 Download the git repo in a zip file:
 
-![IMG](https://github.com/rogerrfs/EzFAC70R/blob/master/.data/img1.jpeg)
+![IMG](.data/img1.jpeg)
 
-![IMG](https://github.com/rogerrfs/EzFAC70R/blob/master/.data/img2.jpeg)
+![IMG](.data/img2.jpeg)
 
 Extract the zip file, enter the folder and select the language.
 
