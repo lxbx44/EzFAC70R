@@ -13,7 +13,7 @@ CAT &rarr; Català
 ES &rarr; Español
 
 ## Installing
-- Go to the [releases](https://github.com/lxbx/EzFAC70R/releases) page and downloaded the lstest release. There will be 2 files. A `.exe` file, for Windows, and a executable file for linux.
+- Go to the [releases](https://github.com/lxbx44/EzFAC70R/releases) page and downloaded the lstest release. There will be 2 files. A `.exe` file, for Windows, and a executable file for linux.
 
 ## Modyfing the code with PYTHON 3
 
@@ -43,7 +43,7 @@ ES &rarr; Español
 
 - Cloning the project:
 
-`git clone https://github.com/lxbx/EzFAC70R.git`
+`git clone https://github.com/lxbx44/EzFAC70R.git`
 
 `cd EzFAC70R/python/(Language)/`
 
@@ -79,7 +79,7 @@ Download the git repo in a zip file:
 
 - Cloning the project:
 
-`git clone https://github.com/lxbx/EzFAC70R.git`
+`git clone https://github.com/lxbx44/EzFAC70R.git`
 
 `cd EzFAC70R/rust/`
 
